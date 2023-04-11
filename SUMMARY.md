@@ -1,3 +1,6 @@
+---
+dir: rtl
+---
 # Table of contents
 
 * [👋 Welcome!](README.md)
