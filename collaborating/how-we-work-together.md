@@ -6,6 +6,9 @@ Being a remote team means that team members are either working from home or from
 Whether you decide to work from home or from a co-working space, we value the balance between private and professional life.
 {% endhint %}
 
+## Computer Science at UM
+This is a test!
+
 ### Working hours
 
 We encourage any working hours that are applicable to you, you know how to structure your day.
