@@ -1,13 +1,11 @@
----
-dir: rtl
----
+<div dir="rtl">
 
 # ریاضی عمومی ۱ 
 ## Calculus I
 
 
 | مقطع:     | کارشناسی     | نوع درس:     |نظری     |
-|-:|:-|-:|-|
+|:-|-|:-|-|
 |  تعداد واحد: | ۴ | تعداد ساعت:  | ۶۴
 | پیش‌نیاز:     | -     | هم‌نیاز:     |-     |
 | حل تمرین:     | دارد     | آموزش تکمیلی:     |-     |
@@ -24,4 +22,8 @@ dir: rtl
 
 **فهرست منابع پیشنهادی**:
 
+</div>
+
+<div dir="ltr">
 * Robert Adams, Christopher Essex, Calculus: A Complete Course, (7th Edition), Pearson Education, Canada, 2009.
+</div>
