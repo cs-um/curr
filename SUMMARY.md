@@ -18,6 +18,7 @@
 
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
+* [ریاضی عمومی ۱](collaborating/Calculus-I.md)
 
 ## Policies
 
