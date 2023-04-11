@@ -4,7 +4,8 @@
 ## Calculus I
 
 <div dir="rtl">
-| مقطع:     | کارشناسی     | نوع درس:     |نظری     |
+
+| <div style="width:80px">مقطع:</div>  | <div style="width:80px">کارشناسی</div>      | <div style="width:80px">نوع درس:</div>      |<div style="width:80px">نظری</div>      |
 |:-|-|:-|-|
 |  تعداد واحد: | ۴ | تعداد ساعت:  | ۶۴
 | پیش‌نیاز:     | -     | هم‌نیاز:     |-     |
