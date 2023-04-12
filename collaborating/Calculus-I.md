@@ -6,7 +6,7 @@
 
 ## Calculus I
 
-<div dir="rtl">
+<p dir="rtl">
 
 | <div style="width:80px">مقطع:</div>  | <div style="width:80px">کارشناسی</div>      | <div style="width:80px">نوع درس:</div>      |<div style="width:80px">نظری</div>      |
 |:-|-|:-|-|
@@ -26,7 +26,7 @@
 
 **فهرست منابع پیشنهادی**:
 
-</div>
+</p>
 
 <div dir="ltr">
 * Robert Adams, Christopher Essex, Calculus: A Complete Course, (7th Edition), Pearson Education, Canada, 2009.
