@@ -22,6 +22,11 @@ dir: rtl
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
 * [ریاضی عمومی ۱](collaborating/Calculus-I.md)
+* [کارگاه کامپیوتر ۱](https://cs-um.gitbook.io/curr/docs/base/Computer-Workshop-I)
+* [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I)
+* [کارگاه کامپیوتر ۱](https://cs-um.gitbook.io/curr/docs/base/Computer-Workshop-I.md)
+* [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
+
 
 ## Policies
 
