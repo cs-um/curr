@@ -7,187 +7,187 @@
 <details>
 <summary>دروس پایه</summary>
 
-* [ریاضی عمومی 1](https://cs-um.gitbook.io/curr/docs/base/Calculus-I.md)
+* [ریاضی عمومی 1](https://cs-um.gitbook.io/curr/docs/base/Calculus-I)
 
-* [کارگاه کامپیوتر ۱](https://cs-um.gitbook.io/curr/docs/base/Computer-Workshop-I.md)
+* [کارگاه کامپیوتر ۱](https://cs-um.gitbook.io/curr/docs/base/Computer-Workshop-I)
 
-* [تحلیل داده‌ها با نرم‌افزارهای عمومی](https://cs-um.gitbook.io/curr/docs/base/Graphical-and-Exploratory-data-analysis.md)
+* [تحلیل داده‌ها با نرم‌افزارهای عمومی](https://cs-um.gitbook.io/curr/docs/base/Graphical-and-Exploratory-data-analysis)
 
-* [ریاضی عمومی 2](https://cs-um.gitbook.io/curr/docs/base/Calculus-II.md)
+* [ریاضی عمومی 2](https://cs-um.gitbook.io/curr/docs/base/Calculus-II)
 
-* [احتمال م‍قدماتی](https://cs-um.gitbook.io/curr/docs/base/Elementary-Probability.md)
+* [احتمال م‍قدماتی](https://cs-um.gitbook.io/curr/docs/base/Elementary-Probability)
 
-* [مبانی اقتصاد](https://cs-um.gitbook.io/curr/docs/base/Basics-of-Economics.md)
+* [مبانی اقتصاد](https://cs-um.gitbook.io/curr/docs/base/Basics-of-Economics)
 
-* [مبانی برنامه‌نویسی](https://cs-um.gitbook.io/curr/docs/base/Fundamentals-of-Computer-Programming.md)
+* [مبانی برنامه‌نویسی](https://cs-um.gitbook.io/curr/docs/base/Fundamentals-of-Computer-Programming)
 
-* [معادلات دیفرانسیل](https://cs-um.gitbook.io/curr/docs/base/Differential-Equations.md)
-
-
-</details>
-
-<details>
-
-<summary>دروس الزامی:</summary>
-
-* [بهینه‌سازی غیرخطی](https://cs-um.gitbook.io/curr/docs/mandatory/Nonlinear-Optimization.md)
-
-* [مبانی نظریه محاسبه](https://cs-um.gitbook.io/curr/docs/mandatory/Introduction-to-The-theory-of-Computation.md)
-
-* [داده‌کاوی مقدماتی](https://cs-um.gitbook.io/curr/docs/mandatory/Elementary-Data-Mining.md)
-
-* [یادگیری آماری مقدماتی](https://cs-um.gitbook.io/curr/docs/mandatory/Elementary-Statistical-Learning.md)
-
-* [روش‌های آماری](https://cs-um.gitbook.io/curr/docs/mandatory/Statistical-Methods.md)
-
-* [آمار محاسباتی](https://cs-um.gitbook.io/curr/docs/mandatory/Computational-Statistics.md)
-
-* [جبر خطی عددی](https://cs-um.gitbook.io/curr/docs/mandatory/Numerical-Linear-Algebra.md)
-
-* [مبانی آنالیز ریاضی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Mathematical-Analysis.md)
-
-* [مبانی آنالیزعددی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Numerical-Analysis.md)
-
-* [مبانی ماتریس‌ها و جبرخطی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)
-
-* [تحلیل آماری داده ها](https://cs-um.gitbook.io/curr/docs/mandatory/Statistical-Data-Analysis.md)
-
-* [مبانی ترکیبیات](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Combinatorics.md)
-
-* [اصول سیستم‌های کامپیوتری](https://cs-um.gitbook.io/curr/docs/mandatory/Principles-of-Computer-Systems.md)
-
-* [پایگاه داده](https://cs-um.gitbook.io/curr/docs/mandatory/Databases.md)
-
-* [کارگاه کامپیوتر ۲](https://cs-um.gitbook.io/curr/docs/mandatory/Computer-Workshop-II.md)
-
-* [مبانی علوم ریاضی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Mathematics.md)
-
-* [طراحی و تحلیل الگوریتم‌ها](https://cs-um.gitbook.io/curr/docs/mandatory/Design-and-Analysis-of-Algorithms.md)
-
-* [ساختمان داده و الگوریتم‌ها](https://cs-um.gitbook.io/curr/docs/mandatory/Data-Structures-and-Algorithms.md)
-
-* [پایتون برای علم داده](https://cs-um.gitbook.io/curr/docs/mandatory/Python-For-Data-Science.md)
-
-* [برنامه‌نویسی پیشرفته](https://cs-um.gitbook.io/curr/docs/mandatory/Advanced-Programming.md)
-
-* [آمار و احتمال 1](https://cs-um.gitbook.io/curr/docs/mandatory/Probability-and-Statistics-I.md)
-
-* [مبانی منطق و نظریه مجموعه ها](https://cs-um.gitbook.io/curr/docs/mandatory/Fundamentals-of-Logic.md)
+* [معادلات دیفرانسیل](https://cs-um.gitbook.io/curr/docs/base/Differential-Equations)
 
 
 </details>
 
 <details>
 
-<summary>دروس اختیاری:</summary>
+<summary>دروس الزامی</summary>
 
-* [بهینه‌سازی گسسته](https://cs-um.gitbook.io/curr/docs/elective/Discrete-Optimization.md)
+* [بهینه‌سازی غیرخطی](https://cs-um.gitbook.io/curr/docs/mandatory/Nonlinear-Optimization)
 
-* [شبیه سازی کامپیوتری](https://cs-um.gitbook.io/curr/docs/elective/Computerized-Simulation.md)
+* [مبانی نظریه محاسبه](https://cs-um.gitbook.io/curr/docs/mandatory/Introduction-to-The-theory-of-Computation)
 
-* [اصول سیستم‌های عامل](https://cs-um.gitbook.io/curr/docs/elective/Principles-of-Operating-Systems.md)
+* [داده‌کاوی مقدماتی](https://cs-um.gitbook.io/curr/docs/mandatory/Elementary-Data-Mining)
 
-* [شبکه‌های اجتماعی](https://cs-um.gitbook.io/curr/docs/elective/social-networks.md)
+* [یادگیری آماری مقدماتی](https://cs-um.gitbook.io/curr/docs/mandatory/Elementary-Statistical-Learning)
 
-* [گرافیک کامپیوتری](https://cs-um.gitbook.io/curr/docs/elective/Computer-Graphics.md)
+* [روش‌های آماری](https://cs-um.gitbook.io/curr/docs/mandatory/Statistical-Methods)
 
-* [مبانی جبر](https://cs-um.gitbook.io/curr/docs/elective/Foundation-of-Algebra.md)
+* [آمار محاسباتی](https://cs-um.gitbook.io/curr/docs/mandatory/Computational-Statistics)
 
-* [شبکه‌های کامپیوتری](https://cs-um.gitbook.io/curr/docs/elective/Computer-Networks.md)
+* [جبر خطی عددی](https://cs-um.gitbook.io/curr/docs/mandatory/Numerical-Linear-Algebra)
 
-* [برنامه‌نویسی وب](https://cs-um.gitbook.io/curr/docs/elective/Web-Programming.md)
+* [مبانی آنالیز ریاضی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Mathematical-Analysis)
 
-* [برنامه‌نویسی موبایل](https://cs-um.gitbook.io/curr/docs/elective/Mobile-Programming.md)
+* [مبانی آنالیزعددی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Numerical-Analysis)
 
-* [مبانی آنالیز فوریه و موجک ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Fourier-and-Wavelet-Analysis.md)
+* [مبانی ماتریس‌ها و جبرخطی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra)
 
-* [اصول طراحی نرم افزار](https://cs-um.gitbook.io/curr/docs/elective/<p>Principles-of-Software</p><p>Design</p>.md)
+* [تحلیل آماری داده ها](https://cs-um.gitbook.io/curr/docs/mandatory/Statistical-Data-Analysis)
 
-* [کارآموزی](https://cs-um.gitbook.io/curr/docs/elective/Apprenticeship.md)
+* [مبانی ترکیبیات](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Combinatorics)
 
-* [کامپایلر](https://cs-um.gitbook.io/curr/docs/elective/Compiler.md)
+* [اصول سیستم‌های کامپیوتری](https://cs-um.gitbook.io/curr/docs/mandatory/Principles-of-Computer-Systems)
 
-* [مباحثی در علوم کامپیوتر](https://cs-um.gitbook.io/curr/docs/elective/Topics-in-Computer-Science.md)
+* [پایگاه داده](https://cs-um.gitbook.io/curr/docs/mandatory/Databases)
 
-* [مبانی بیوانفورماتیک](https://cs-um.gitbook.io/curr/docs/elective/Fundamentals-of-Bioinformatic.md)
+* [کارگاه کامپیوتر ۲](https://cs-um.gitbook.io/curr/docs/mandatory/Computer-Workshop-II)
 
-* [پروژه کارشناسی](https://cs-um.gitbook.io/curr/docs/elective/Project.md)
+* [مبانی علوم ریاضی](https://cs-um.gitbook.io/curr/docs/mandatory/Foundation-of-Mathematics)
 
-* [نظریه گراف و کاربردها](https://cs-um.gitbook.io/curr/docs/elective/Graph-Theory-and-Applications.md)
+* [طراحی و تحلیل الگوریتم‌ها](https://cs-um.gitbook.io/curr/docs/mandatory/Design-and-Analysis-of-Algorithms)
 
-* [آنالیز عددی](https://cs-um.gitbook.io/curr/docs/elective/Numerical-Analysis.md)
+* [ساختمان داده و الگوریتم‌ها](https://cs-um.gitbook.io/curr/docs/mandatory/Data-Structures-and-Algorithms)
 
-* [آشنایی با تحلیل کلان داده‌ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Big-Data-Analysis.md)
+* [پایتون برای علم داده](https://cs-um.gitbook.io/curr/docs/mandatory/Python-For-Data-Science)
 
-* [مباحثی در الگوریتم‌ها](https://cs-um.gitbook.io/curr/docs/elective/Topics-in-Algorithms.md)
+* [برنامه‌نویسی پیشرفته](https://cs-um.gitbook.io/curr/docs/mandatory/Advanced-Programming)
 
-* [فرایند های تصادفی](https://cs-um.gitbook.io/curr/docs/elective/Stochastic-Processes.md)
+* [آمار و احتمال 1](https://cs-um.gitbook.io/curr/docs/mandatory/Probability-and-Statistics-I)
 
-* [مبانی رایانش ابری](https://cs-um.gitbook.io/curr/docs/elective/Cloud-Computing-Fundamentals.md)
+* [مبانی منطق و نظریه مجموعه ها](https://cs-um.gitbook.io/curr/docs/mandatory/Fundamentals-of-Logic)
 
-* [رایانش چند‌هسته‌ای](https://cs-um.gitbook.io/curr/docs/elective/Multicore-Computing.md)
 
-* [سیگنال‌ها و سیستم‌ها](https://cs-um.gitbook.io/curr/docs/elective/Signals-and-Systems.md)
+</details>
 
-* [مدیریت پروژه‌های فناوری اطلاعات](https://cs-um.gitbook.io/curr/docs/elective/Information-Technology-Project-Management.md)
+<details>
 
-* [تحقیق در عملیات](https://cs-um.gitbook.io/curr/docs/elective/Operations-research.md)
+<summary>دروس اختیاری</summary>
 
-* [تجارت الکترونیک](https://cs-um.gitbook.io/curr/docs/elective/Electronic-Commerce.md)
+* [بهینه‌سازی گسسته](https://cs-um.gitbook.io/curr/docs/elective/Discrete-Optimization)
 
-* [ریاضیات فازی](https://cs-um.gitbook.io/curr/docs/elective/Fuzzy-Mathematics.md)
+* [شبیه سازی کامپیوتری](https://cs-um.gitbook.io/curr/docs/elective/Computerized-Simulation)
 
-* [هندسه محاسباتی](https://cs-um.gitbook.io/curr/docs/elective/Computational-Geometry.md)
+* [اصول سیستم‌های عامل](https://cs-um.gitbook.io/curr/docs/elective/Principles-of-Operating-Systems)
 
-* [آمار و احتمال 2](https://cs-um.gitbook.io/curr/docs/elective/Probability-and-Statistics-II.md)
+* [شبکه‌های اجتماعی](https://cs-um.gitbook.io/curr/docs/elective/social-networks)
 
-* [یادگیری ماشین  مقدماتی ۱](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Machine-Learning-I.md)
+* [گرافیک کامپیوتری](https://cs-um.gitbook.io/curr/docs/elective/Computer-Graphics)
 
-* [یادگیری ماشین مقدماتی ۲](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Machine-Learning-II.md)
+* [مبانی جبر](https://cs-um.gitbook.io/curr/docs/elective/Foundation-of-Algebra)
 
-* [نظریه محاسبه](https://cs-um.gitbook.io/curr/docs/elective/Theory-of-Computation.md)
+* [شبکه‌های کامپیوتری](https://cs-um.gitbook.io/curr/docs/elective/Computer-Networks)
 
-* [منطق برای علوم کامپیوتر](https://cs-um.gitbook.io/curr/docs/elective/Logic-for-Computer-Science.md)
+* [برنامه‌نویسی وب](https://cs-um.gitbook.io/curr/docs/elective/Web-Programming)
 
-* [نظریه مقدماتی کد گذاری](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Coding-Theory.md)
+* [برنامه‌نویسی موبایل](https://cs-um.gitbook.io/curr/docs/elective/Mobile-Programming)
 
-* [رمزنگاری](https://cs-um.gitbook.io/curr/docs/elective/Cryptography.md)
+* [مبانی آنالیز فوریه و موجک ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Fourier-and-Wavelet-Analysis)
 
-* [برنامه‌نویسی امن](https://cs-um.gitbook.io/curr/docs/elective/Secure-Programming.md)
+* [اصول طراحی نرم افزار](https://cs-um.gitbook.io/curr/docs/elective/<p>Principles-of-Software</p><p>Design</p>)
 
-* [معناشناسی عملیاتی برنامه‌نویسی](https://cs-um.gitbook.io/curr/docs/elective/Operational-Semantics-of-Programming.md)
+* [کارآموزی](https://cs-um.gitbook.io/curr/docs/elective/Apprenticeship)
 
-* [آشنایی با نظریه بازی ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Game-Theory.md)
+* [کامپایلر](https://cs-um.gitbook.io/curr/docs/elective/Compiler)
 
-* [الگوریتم‌های تصادفی](https://cs-um.gitbook.io/curr/docs/elective/Randomized-Algorithms.md)
+* [مباحثی در علوم کامپیوتر](https://cs-um.gitbook.io/curr/docs/elective/Topics-in-Computer-Science)
 
-* [رگرسیون1](https://cs-um.gitbook.io/curr/docs/elective/Regression-I.md)
+* [مبانی بیوانفورماتیک](https://cs-um.gitbook.io/curr/docs/elective/Fundamentals-of-Bioinformatic)
 
-* [آزمایشگاه ریاضی](https://cs-um.gitbook.io/curr/docs/elective/Mathematics-Lab.md)
+* [پروژه کارشناسی](https://cs-um.gitbook.io/curr/docs/elective/Project)
 
-* [هوش مصنوعی](https://cs-um.gitbook.io/curr/docs/elective/Artificial-Intelligence.md)
+* [نظریه گراف و کاربردها](https://cs-um.gitbook.io/curr/docs/elective/Graph-Theory-and-Applications)
 
-* [هوش محاسباتی](https://cs-um.gitbook.io/curr/docs/elective/Computational-Intelligence.md)
+* [آنالیز عددی](https://cs-um.gitbook.io/curr/docs/elective/Numerical-Analysis)
 
-* [هوش تجاری  مقدماتی](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Business-intelligence.md)
+* [آشنایی با تحلیل کلان داده‌ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Big-Data-Analysis)
 
-* [آشنایی با یادگیری عمیق](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Deep-Learning.md)
+* [مباحثی در الگوریتم‌ها](https://cs-um.gitbook.io/curr/docs/elective/Topics-in-Algorithms)
 
-* [اصول مصورسازی داده ها](https://cs-um.gitbook.io/curr/docs/elective/Elements-of-data-visualization.md)
+* [فرایند های تصادفی](https://cs-um.gitbook.io/curr/docs/elective/Stochastic-Processes)
 
-* [مبانی کارآفرینی](https://cs-um.gitbook.io/curr/docs/elective/Foundations-of-Entrepreneurship.md)
+* [مبانی رایانش ابری](https://cs-um.gitbook.io/curr/docs/elective/Cloud-Computing-Fundamentals)
 
-* [توسعه کسب و کارهای نوپا](https://cs-um.gitbook.io/curr/docs/elective/New-Business-Development.md)
+* [رایانش چند‌هسته‌ای](https://cs-um.gitbook.io/curr/docs/elective/Multicore-Computing)
 
-* [مدیریت و کنترل پروژه](https://cs-um.gitbook.io/curr/docs/elective/Management-and-Project-Control.md)
+* [سیگنال‌ها و سیستم‌ها](https://cs-um.gitbook.io/curr/docs/elective/Signals-and-Systems)
 
-* [مدلسازی ریاضی](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Mathematical-Modeling.md)
+* [مدیریت پروژه‌های فناوری اطلاعات](https://cs-um.gitbook.io/curr/docs/elective/Information-Technology-Project-Management)
 
-* [سری های زمانی](https://cs-um.gitbook.io/curr/docs/elective/Time-Series.md)
+* [تحقیق در عملیات](https://cs-um.gitbook.io/curr/docs/elective/Operations-research)
 
-* [پردازش تصویر مقدماتی](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Image-Processing.md)
+* [تجارت الکترونیک](https://cs-um.gitbook.io/curr/docs/elective/Electronic-Commerce)
 
-* [مبانی و اصول مدیریت](https://cs-um.gitbook.io/curr/docs/elective/Basics-and-Principles-of-Management.md)
+* [ریاضیات فازی](https://cs-um.gitbook.io/curr/docs/elective/Fuzzy-Mathematics)
+
+* [هندسه محاسباتی](https://cs-um.gitbook.io/curr/docs/elective/Computational-Geometry)
+
+* [آمار و احتمال 2](https://cs-um.gitbook.io/curr/docs/elective/Probability-and-Statistics-II)
+
+* [یادگیری ماشین  مقدماتی ۱](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Machine-Learning-I)
+
+* [یادگیری ماشین مقدماتی ۲](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Machine-Learning-II)
+
+* [نظریه محاسبه](https://cs-um.gitbook.io/curr/docs/elective/Theory-of-Computation)
+
+* [منطق برای علوم کامپیوتر](https://cs-um.gitbook.io/curr/docs/elective/Logic-for-Computer-Science)
+
+* [نظریه مقدماتی کد گذاری](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Coding-Theory)
+
+* [رمزنگاری](https://cs-um.gitbook.io/curr/docs/elective/Cryptography)
+
+* [برنامه‌نویسی امن](https://cs-um.gitbook.io/curr/docs/elective/Secure-Programming)
+
+* [معناشناسی عملیاتی برنامه‌نویسی](https://cs-um.gitbook.io/curr/docs/elective/Operational-Semantics-of-Programming)
+
+* [آشنایی با نظریه بازی ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Game-Theory)
+
+* [الگوریتم‌های تصادفی](https://cs-um.gitbook.io/curr/docs/elective/Randomized-Algorithms)
+
+* [رگرسیون1](https://cs-um.gitbook.io/curr/docs/elective/Regression-I)
+
+* [آزمایشگاه ریاضی](https://cs-um.gitbook.io/curr/docs/elective/Mathematics-Lab)
+
+* [هوش مصنوعی](https://cs-um.gitbook.io/curr/docs/elective/Artificial-Intelligence)
+
+* [هوش محاسباتی](https://cs-um.gitbook.io/curr/docs/elective/Computational-Intelligence)
+
+* [هوش تجاری  مقدماتی](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Business-intelligence)
+
+* [آشنایی با یادگیری عمیق](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Deep-Learning)
+
+* [اصول مصورسازی داده ها](https://cs-um.gitbook.io/curr/docs/elective/Elements-of-data-visualization)
+
+* [مبانی کارآفرینی](https://cs-um.gitbook.io/curr/docs/elective/Foundations-of-Entrepreneurship)
+
+* [توسعه کسب و کارهای نوپا](https://cs-um.gitbook.io/curr/docs/elective/New-Business-Development)
+
+* [مدیریت و کنترل پروژه](https://cs-um.gitbook.io/curr/docs/elective/Management-and-Project-Control)
+
+* [مدلسازی ریاضی](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Mathematical-Modeling)
+
+* [سری های زمانی](https://cs-um.gitbook.io/curr/docs/elective/Time-Series)
+
+* [پردازش تصویر مقدماتی](https://cs-um.gitbook.io/curr/docs/elective/Elementary-Image-Processing)
+
+* [مبانی و اصول مدیریت](https://cs-um.gitbook.io/curr/docs/elective/Basics-and-Principles-of-Management)
 
 
 </details>
