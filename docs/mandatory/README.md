@@ -1,26 +1,3 @@
 ## دروس الزامی 
 
 یک سری توضیحات ...
-
-* [بهینه‌سازی غیرخطی](Nonlinear-Optimization.md)
-* [مبانی نظریه محاسبه](Introduction-to-The-theory-of-Computation.md)
-* [داده‌کاوی مقدماتی](Elementary-Data-Mining.md)
-* [یادگیری آماری مقدماتی](Elementary-Statistical-Learning.md)
-* [روش‌های آماری](Statistical-Methods.md)
-* [آمار محاسباتی](Computational-Statistics.md)
-* [جبر خطی عددی](Numerical-Linear-Algebra.md)
-* [مبانی آنالیز ریاضی](Foundation-of-Mathematical-Analysis.md)
-* [مبانی آنالیزعددی](Foundation-of-Numerical-Analysis.md)
-* [مبانی ماتریس‌ها و جبرخطی](Foundation-of-Matrix-and-Linear-Algebra.md)
-* [تحلیل آماری داده ها](Statistical-Data-Analysis.md)
-* [مبانی ترکیبیات](Foundation-of-Combinatorics.md)
-* [اصول سیستم‌های کامپیوتری](Principles-of-Computer-Systems.md)
-* [پایگاه داده](Databases.md)
-* [کارگاه کامپیوتر ۲](Computer-Workshop-II.md)
-* [مبانی علوم ریاضی](Foundation-of-Mathematics.md)
-* [طراحی و تحلیل الگوریتم‌ها](Design-and-Analysis-of-Algorithms.md)
-* [ساختمان داده و الگوریتم‌ها](Data-Structures-and-Algorithms.md)
-* [پایتون برای علم داده](Python-For-Data-Science.md)
-* [برنامه‌نویسی پیشرفته](Advanced-Programming.md)
-* [آمار و احتمال 1](Probability-and-Statistics-I.md)
-* [مبانی منطق و نظریه مجموعه ها](Fundamentals-of-Logic.md)

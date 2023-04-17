@@ -4,7 +4,7 @@ dir: rtl
 * [صفحه اصلی](README.md)
 ## چارت درسی
 
-* [دروس پایه ](docs/elective/README.md)
+* [دروس پایه ](docs/base/README.md)
   * [ریاضی عمومی 1](docs/base/Calculus-I.md)
   * [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
   * [تحلیل داده‌ها با نرم‌افزارهای عمومی](docs/base/Graphical-and-Exploratory-data-analysis.md)
@@ -15,7 +15,7 @@ dir: rtl
   * [معادلات دیفرانسیل](docs/base/Differential-Equations.md)
 
 
-* [دروس الزامی](team/meet-the-team.md)
+* [دروس الزامی](docs/mandatory/README.md)
   * [بهینه‌سازی غیرخطی](docs/mandatory/Nonlinear-Optimization.md)
   * [مبانی نظریه محاسبه](docs/mandatory/Introduction-to-The-theory-of-Computation.md)
   * [داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)
@@ -40,7 +40,7 @@ dir: rtl
   * [مبانی منطق و نظریه مجموعه ها](docs/mandatory/Fundamentals-of-Logic.md)
 
 
-* [دروس اختیاری](collaborating/how-we-work-together.md)
+* [دروس اختیاری](docs/elective/README.md)
   * [بهینه‌سازی گسسته](docs/elective/Discrete-Optimization.md)
   * [شبیه سازی کامپیوتری](docs/elective/Computerized-Simulation.md)
   * [اصول سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)
