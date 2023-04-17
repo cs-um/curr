@@ -5,18 +5,11 @@
 {% endhint %}
 
 <details>
-
-* [ریاضی عمومی 1](https://cs-um.gitbook.io/curr/docs/base/Calculus-I)
-
-* [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
-
-* [تحلیل داده‌ها با نرم‌افزارهای عمومی](https://cs-um.gitbook.io/curr/docs/base/Graphical-and-Exploratory-data-analysis)
-
 <summary>دروس پایه</summary>
 
 * [ریاضی عمومی 1](https://cs-um.gitbook.io/curr/docs/base/Calculus-I)
 
-* [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
+* [کارگاه کامپیوتر ۱](https://cs-um.gitbook.io/curr/docs/base/Computer-Workshop-I)
 
 * [تحلیل داده‌ها با نرم‌افزارهای عمومی](https://cs-um.gitbook.io/curr/docs/base/Graphical-and-Exploratory-data-analysis)
 
@@ -108,7 +101,7 @@
 
 * [مبانی آنالیز فوریه و موجک ها](https://cs-um.gitbook.io/curr/docs/elective/Introduction-to-Fourier-and-Wavelet-Analysis)
 
-* [اصول طراحی نرم افزار](https://cs-um.gitbook.io/curr/docs/elective/<p>Principles-of-Software</p><p>Design</p>)
+* [اصول طراحی نرم افزار](https://cs-um.gitbook.io/curr/docs/elective/Principles-of-SoftwareDesign)
 
 * [کارآموزی](https://cs-um.gitbook.io/curr/docs/elective/Apprenticeship)
 
