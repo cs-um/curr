@@ -9,7 +9,7 @@
 
 * [ریاضی عمومی 1](https://cs-um.gitbook.io/curr/docs/base/Calculus-I)
 
-* [کارگاه کامپیوتر ۱](https://cs-um.gitbook.io/curr/docs/base/Computer-Workshop-I)
+* [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
 
 * [تحلیل داده‌ها با نرم‌افزارهای عمومی](https://cs-um.gitbook.io/curr/docs/base/Graphical-and-Exploratory-data-analysis)
 
