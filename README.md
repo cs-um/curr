@@ -10,7 +10,7 @@
 * [احتمال م‍قدماتی](docs/base/Elementary-Probability.md)
 * [تحلیل داده‌ها با نرم‌افزارهای عمومی](docs/base/Graphical-and-Exploratory-data-analysis.md)
 * [ریاضی عمومی ۱](docs/base/Calculus-I.md)
-* [ریاضی عمومی ۱](docs/base/Calculus-II.md)
+* [ریاضی عمومی ۲](docs/base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
 * [مبانی اقتصاد](docs/base/Basics-of-Economics.md)
 * [مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)
@@ -22,7 +22,6 @@
 
 <summary>دروس الزامی</summary>
 
-* [` `نظریه بازی](docs/mandatory/Game-Theory.md)
 * [اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)
 * [آمار محاسباتی](docs/mandatory/Computational-Statistics.md)
 * [آمار و احتمال ۱](docs/mandatory/Probability-and-Statistics-I.md)
@@ -52,7 +51,6 @@
 
 <summary>دروس اختیاری</summary>
 
-* [` `هوش تجاری  مقدماتی](docs/elective/Elementary-Business-intelligence.md)
 * [اصول سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)
 * [اصول طراحی نرم افزار](docs/elective/Principles-of-SoftwareDesign.md)
 * [اصول مصورسازی داده‌ها](docs/elective/Elements-of-data-visualization.md)
@@ -100,6 +98,7 @@
 * [نظریه محاسبه](docs/elective/Theory-of-Computation.md)
 * [نظریه مقدماتی کد گذاری](docs/elective/Elementary-Coding-Theory.md)
 * [هندسه محاسباتی](docs/elective/Computational-Geometry.md)
+* [هوش تجاری  مقدماتی](docs/elective/Elementary-Business-intelligence.md)
 * [هوش محاسباتی](docs/elective/Computational-Intelligence.md)
 * [هوش مصنوعی](docs/elective/Artificial-Intelligence.md)
 * [پردازش تصویر مقدماتی](docs/elective/Elementary-Image-Processing.md)
