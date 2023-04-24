@@ -7,8 +7,6 @@
 <details>
 <summary>دروس پایه</summary>
 
-| نام درس | پیش‌نیاز | تعداد واحد |
-| ------- | -------- | ---------- |
 |[آمار و احتمال م‍قدماتی](base/Elementary-Statistics-and-Probability.md) | ندارد|3|
 |[ریاضی عمومی ۱](base/Calculus-I.md) | ندارد|4|
 |[ریاضی عمومی ۲](base/Calculus-II.md) | [ریاضی عمومی ۱](base/Calculus-I.md)|4|
