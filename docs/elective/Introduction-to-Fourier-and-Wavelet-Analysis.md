@@ -14,10 +14,10 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-\1. Michael W. Frazier, An Introduction to Wavelets through Linear Algebra, Springer Undergraduate Texts in Mathematics
+1\. Michael W. Frazier, An Introduction to Wavelets through Linear Algebra, Springer Undergraduate Texts in Mathematics
 
-\2. Barbara Burke Hubbard, The World According to Wavelets, Second Edition.
+2\. Barbara Burke Hubbard, The World According to Wavelets, Second Edition.
 
-\3. D. F. J. Narcowich, A. Boggess, A First Course in Wavelets with Fourier Analysis, Prentice Hall
+3\. D. F. J. Narcowich, A. Boggess, A First Course in Wavelets with Fourier Analysis, Prentice Hall
 
-\4. F. P. J. Van Fleet, Discrete Wavelet Transforms- An Elementary Approach with Applications 
+4\. F. P. J. Van Fleet, Discrete Wavelet Transforms- An Elementary Approach with Applications 
