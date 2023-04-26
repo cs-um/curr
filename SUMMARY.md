@@ -1,4 +1,5 @@
 * [صفحه اصلی](README.md)
+* [جدول دروس](Tables.md)
 ## دروس پایه
 * [آمار و احتمال م‍قدماتی](docs/base/Elementary-Statistics-and-Probability.md)
 * [ریاضی عمومی ۱](docs/base/Calculus-I.md)
