@@ -21,6 +21,7 @@ dir: rtl
  |24|مجموع تعداد واحد|
 
 ##دروس الزامی
+
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md) | 
@@ -49,6 +50,7 @@ dir: rtl
  |67|مجموع تعداد واحد|
 
 ##دروس اختیاری
+
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
 |3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[اصول سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md) | 
