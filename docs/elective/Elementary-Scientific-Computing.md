@@ -19,3 +19,13 @@ _______________________________________________________________________________
 **فهرست منابع پیشنهادی**
 
 Scientific Computing with Case Studies, By Dianne P. O'Leary, 2009
+
+[^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
+
+[^2]: ["Computer Science as a Profession"](https://web.archive.org/web/20080617030847/http:/www.csab.org/comp_sci_profession.html). Computing Sciences Accreditation Board. May 28, 1997.
+
+[^3]: [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+
+[^4]: در تدوین این برنامه درسی، برنامه‌های درسی مصوب وزارت در سالهای ۱۳۹۹ تا ۱۴۰۱ برای رشته‌های علوم کامپیوتر، ریاضیات و کاربردها و آمار و همچنین برنامه درسی مهندسی کامپیوتر وزارت علوم و چند دانشگاه داخلی و خارجی مورد ملاحظه قرار گرفته‌اند.
+
+[^5]: Andrew Ng
