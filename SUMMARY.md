@@ -18,6 +18,7 @@
 * [پایگاه داده‌ها](docs/mandatory/Databases.md)
 * [تحقیق در عملیات](docs/mandatory/Operations-research.md)
 * [تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)
+* [جبر خطی عددی](docs/mandatory/Numerical-Linear-Algebra.md)
 * [داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)
 * [ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)
 * [سری‌های زمانی کاربردی](docs/mandatory/Time-Series.md)
@@ -33,7 +34,6 @@
 * [مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md)
 * [مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md)
 * [نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md)
-* [هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md)
 * [یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)
 ## دروس اختیاری
 * [اصول سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)
@@ -54,7 +54,6 @@
 * [پروژه کارشناسی](docs/elective/Project.md)
 * [تجارت الکترونیک](docs/elective/Electronic-Commerce.md)
 * [تحلیل شبکه‌های اجتماعی](docs/elective/Social-Networks-Analysis.md)
-* [جبر خطی عددی](docs/elective/Numerical-Linear-Algebra.md)
 * [رایانش چند‌هسته‌ای](docs/elective/Multicore-Computing.md)
 * [رگرسیون ۱](docs/elective/Regression-I.md)
 * [رمزنگاری](docs/elective/Cryptography.md)
@@ -84,3 +83,4 @@
 * [هندسه محاسباتی](docs/elective/Computational-Geometry.md)
 * [هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md)
 * [هوش محاسباتی](docs/elective/Computational-Intelligence.md)
+* [هوش مصنوعی](docs/elective/Artificial-Intelligence.md)

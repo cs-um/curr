@@ -29,7 +29,8 @@ dir: rtl
 |3|[تحقیق در عملیات](docs/mandatory/Operations-research.md)|[بهینه‌سازی غیرخطی](docs/mandatory/Nonlinear-Optimization.md) | 
 |3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[پایگاه داده‌ها](docs/mandatory/Databases.md) | 
 |3|[مبانی ماتریس‌ها و جبر خطی](docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)|[تحقیق در عملیات](docs/mandatory/Operations-research.md) | 
-|3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) | 
+|4|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) | 
+|3|[مبانی ماتریس‌ها و جبر خطی](docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)|[جبر خطی عددی](docs/mandatory/Numerical-Linear-Algebra.md) | 
 |3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](docs/mandatory/Time-Series.md) | 
@@ -45,9 +46,8 @@ dir: rtl
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md) | 
 |3|ندارد|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md) | 
-|3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی ماتریس‌ها و جبر خطی](docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |68|مجموع تعداد واحد|
+ |69|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
@@ -71,7 +71,6 @@ dir: rtl
 |3|گذراندن 75 واحد|[پروژه کارشناسی](docs/elective/Project.md) | 
 |2|ندارد|[تجارت الکترونیک](docs/elective/Electronic-Commerce.md) | 
 |3|[مبانی ترکیبیات](docs/mandatory/Foundation-of-Combinatorics.md)|[تحلیل شبکه‌های اجتماعی](docs/elective/Social-Networks-Analysis.md) | 
-|3|[مبانی ماتریس‌ها و جبر خطی](docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)|[جبر خطی عددی](docs/elective/Numerical-Linear-Algebra.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md) ،[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[رایانش چند‌هسته‌ای](docs/elective/Multicore-Computing.md) | 
 |3|[مبانی ماتریس‌ها و جبر خطی](docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md) ،[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[رگرسیون ۱](docs/elective/Regression-I.md) | 
 |3|[مبانی جبر](docs/elective/Foundation-of-Algebra.md)|[رمزنگاری](docs/elective/Cryptography.md) | 
@@ -101,4 +100,5 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](docs/elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[هوش محاسباتی](docs/elective/Computational-Intelligence.md) | 
+|3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[هوش مصنوعی](docs/elective/Artificial-Intelligence.md) | 
  |138|مجموع تعداد واحد|
