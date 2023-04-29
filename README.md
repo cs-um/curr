@@ -7,6 +7,7 @@
 <details>
 <summary>دروس پایه</summary>
 
+* [آمار و احتمال ۱](base/Probability-and-Statistics-I.md)
 * [ریاضی عمومی ۱](base/Calculus-I.md)
 * [ریاضی عمومی ۲](base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](base/Computer-Workshop-I.md)
@@ -22,7 +23,6 @@
 <summary>دروس الزامی</summary>
 
 * [اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)
-* [آمار و احتمال ۱](mandatory/Probability-and-Statistics-I.md)
 * [برنامه‌نویسی پایتون](mandatory/Python-Programming.md)
 * [برنامه‌نویسی پیشرفته](mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](mandatory/Nonlinear-Optimization.md)

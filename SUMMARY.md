@@ -2,6 +2,7 @@
 * [مشخصات کلی](general-specifications.md)
 * [جداول دروس](Tables.md)
 ## دروس پایه
+* [آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)
 * [ریاضی عمومی ۱](docs/base/Calculus-I.md)
 * [ریاضی عمومی ۲](docs/base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](docs/base/Computer-Workshop-I.md)
@@ -11,7 +12,6 @@
 * [معادلات دیفرانسیل](docs/base/Differential-Equations.md)
 ## دروس الزامی
 * [اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)
-* [آمار و احتمال ۱](docs/mandatory/Probability-and-Statistics-I.md)
 * [برنامه‌نویسی پایتون](docs/mandatory/Python-Programming.md)
 * [برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](docs/mandatory/Nonlinear-Optimization.md)
