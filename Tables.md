@@ -18,7 +18,7 @@ dir: rtl
 |3|[ریاضی عمومی ۱](docs/base/Calculus-I.md)|[معادلات دیفرانسیل](docs/base/Differential-Equations.md) | 
  |20|مجموع تعداد واحد|
 
-##دروس الزامی
+## دروس الزامی
 
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
@@ -49,7 +49,7 @@ dir: rtl
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی ماتریس‌ها و جبر خطی](docs/mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
  |71|مجموع تعداد واحد|
 
-##دروس اختیاری
+## دروس اختیاری
 
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
