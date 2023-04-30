@@ -32,4 +32,8 @@ Grimmett, G. and Welsh D. Probability: an Introduction, 2nd Edition, OUP, 2014.
 
 Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Edition, CRC Press,2014.
 
+` `«دروس تخصصی»
+
+![](Aspose.Words.de946f22-5e14-463b-886e-7cedea980546.007.png)
+
 **
