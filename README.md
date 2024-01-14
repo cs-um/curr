@@ -7,7 +7,7 @@
 <details>
 <summary>دروس پایه</summary>
 
-* [آمار و احتمال ۱](base/Probability-and-Statistics-I.md)
+* [آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)
 * [ریاضی عمومی ۱](base/Calculus-I.md)
 * [ریاضی عمومی ۲](base/Calculus-II.md)
 * [مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)
